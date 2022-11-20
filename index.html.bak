@@ -1,0 +1,627 @@
+<!DOCTYPE html>
+<html lang="english" class="theme-light">
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.9.1/font/bootstrap-icons.css">
+	<link rel="stylesheet" href="css/bootstrap.min.css">
+	<link rel="stylesheet" href="css/flaticon.css">
+	<link rel="stylesheet" href="css/owl.carousel.min.css">
+	<link rel="stylesheet" href="css/odometer.min.css">
+	<link rel="stylesheet" href="css/fancybox.css">
+	<link rel="stylesheet" href="css/aos.css">
+	<link rel="stylesheet" href="css/style.css">
+	<link rel="stylesheet" href="css/dark-theme.css">
+	<link rel="stylesheet" href="css/responsive.css">
+	<script src="https://kit.fontawesome.com/0914c79568.js" crossorigin="anonymous"></script>
+	<title>Tradeway Expert</title>
+</head>
+<body data-aos-easing="ease" data-aos-duration="400" data-aos-delay="0">
+<div class="loader js-preloader" style="display: none;">
+<div></div>
+<div></div>
+<div></div>
+</div>
+<!-- main container -->
+<div class="page-wrapper">
+<!-- header -->
+<header class="header-wrap style1">
+<div class="header-top">
+</div>
+<div class="header-bottom">
+<div class="container">
+<nav class="navbar navbar-expand-md navbar-light">
+<a class="navbar-brand" href="index.html">
+<img class="logo-light" src="img/logo-1.png">
+<!--<img class="logo-dark" src="img/logo-white.png" alt="logo">
+<span class="" style="background-color:lightblue;padding:8px;border-radius:4px;">TradewayExpert</span>-->
+</a>
+<div class="collapse navbar-collapse main-menu-wrap" id="navbarSupportedContent">
+<div class="menu-close xl-none">
+<a href="javascript:void(0)"> <i class="fa-solid fa-xmark"></i></a>
+</div>
+<ul class="navbar-nav ms-auto">
+<li class="nav-item"><span class="menu-expand"></span>
+<a href="index.html" class="nav-link active">
+Home
+</a>
+</li>
+<li class="nav-item has-dropdown"><span class="menu-expand"><i class="bi bi-arrow-down-short"></i></span>
+<a href="index.html#" class="nav-link">
+Service
+<i class="bi bi-arrow-down-short"></i>
+</a>
+<ul class="dropdown-menu" style="display: none;">
+<li class="nav-item">
+<a href="equity.html" class="nav-link">EQUITY</a>
+</li>
+<li class="nav-item">
+<a href="stock_option.html" class="nav-link">STOCK OPTION</a>
+ </li>
+<li class="nav-item">
+<a href="stock_future.html" class="nav-link">STOCK FUTURE</a>
+</li>
+<li class="nav-item">
+<a href="index_option.html" class="nav-link">INDEX OPTION</a>
+</li>
+<li class="nav-item">
+<a href="tes.html" class="nav-link">TRADEWAY EXPERT SPECIAL</a>
+</li>
+<li class="nav-item">
+<a href="combo_pack.html" class="nav-link">COMBO PACKAGE</a>
+ </li>
+</ul>
+</li>
+<li class="nav-item">
+<a href="performance.html" class="nav-link">Past Performance</a>
+</li>
+<li class="nav-item">
+<a href="contact.html" class="nav-link">Contact Us</a>
+</li>
+</ul>
+<!--<div class="others-options  lg-none">
+</div>-->
+</div>
+</nav>
+<div class="mobile-bar-wrap">
+<div class="mobile-menu xl-none">
+<a href="javascript:void(0)"><i class="bi bi-list"></i></a>
+</div>
+</div>
+</div>
+</div>
+</header>
+<!-- header end -->
+
+<!-- Tradeway expert -->
+<section class="hero-wrap style3 bg-squeeze">
+<img src="img/hero-shape-10.png" alt="Image" class="hero-shape-one">
+<img src="img/hero-shape-15.png" alt="Image" class="hero-shape-two">
+<img src="img/hero-shape-14.png" alt="Image" class="hero-shape-three">
+<img src="img/hero-shape-11.png" alt="Image" class="hero-shape-four animationFramesTwo">
+<div class="hero-slider-one owl-carousel owl-loaded owl-drag">
+
+
+
+<div class="owl-stage-outer owl-height" style="height: 693.234px;"><div class="owl-stage" style="transform: translate3d(-2738px, 0px, 0px); transition: all 0s ease 0s; width: 9583px;">
+<div class="owl-item active" style="width: 1349px; margin-right: 20px;"><div class="hero-slide-item">
+<div class="container">
+<div class="row gx-5 align-items-center">
+<div class="col-md-6">
+<div class="hero-content" data-speed="0.10" data-revert="true" style="transform: matrix(1, 0, 0, 1, 5.62, -1.68);">
+<span>Tradeway Expert</span>
+<h1> A Leading Financial advisory firm In India.</h1>
+<p>We Believe In Working With Honesty And High Success Rate. Our Main Motive Is To Create Better Investments Awareness Among The Investors In Terms Of Safety, Success, Discipline And Growth.</p>
+</div>
+</div>
+<div class="col-md-6">
+<div class="hero-img-wrap">
+<img src="img/hero-shape-13.png" alt="Image" class="hero-shape-five bounce">
+<img src="img/hero-shape-12.png" alt="Image" class="hero-shape-six moveHorizontal">
+<img src="img/hero-slide-1.png" alt="Image" class="hero-img">
+
+</div>
+</div>
+</div>
+</div>
+</div></div>
+</div>
+</div>
+<div class="owl-nav disabled"><button type="button" role="presentation" class="owl-prev"><span aria-label="Previous">‹</span></button><button type="button" role="presentation" class="owl-next"><span aria-label="Next">›</span></button></div>
+<div class="owl-dots"><button role="button" class="owl-dot active"><span></span></button><button role="button" class="owl-dot"><span></span></button><button role="button" class="owl-dot"><span></span></button></div>
+</div>
+</section>
+<!-- tradeway expert end -->
+
+<!-- why tradeway expert -->
+<section class="feature-wrap pt-100 pb-75">
+<center> <h2>WHY TRADEWAY EXPERT?</h2></center>
+<div class="container">
+<div class="row justify-content-center">
+<div class="col-xl-3 col-lg-3 col-md-6">
+<div class="feature-card style3">
+<div class="feature-info">
+<div class="feature-title">
+<span><img src="img/feature-icon-1.png" alt="Image"></span>
+<h3>7000+ Happy Clients</h3>
+</div>
+<p></p>
+</div>
+</div>
+</div>
+<div class="col-xl-3 col-lg-3 col-md-6">
+<div class="feature-card style3">
+<div class="feature-info">
+<div class="feature-title">
+<span><img src="img/feature-icon-2.png" alt="Image"></span>
+<h3>SEBI Registered Company</h3>
+</div>
+<p></p>
+</div>
+</div>
+</div>
+<div class="col-xl-3 col-lg-3 col-md-6">
+<div class="feature-card style3">
+<div class="feature-info">
+<div class="feature-title">
+<span><img src="img/quality.png" alt="Image" width="40px"></span>
+<h3>Best Quality Service</h3>
+</div>
+<p></p>
+</div>
+</div>
+</div>
+<div class="col-xl-3 col-lg-3 col-md-6">
+<div class="feature-card style3">
+<div class="feature-info">
+<div class="feature-title">
+<span><img src="img/feature-icon-3.png" alt="Image"></span>
+<h3>Risk Managed Call</h3>
+</div>
+<p></p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+<!--why tradeway expert end -->
+
+<!-- why choose us -->
+<section class="why-choose-wrap style1 pb-100 bg-bunting">
+<div class="container">
+<div class="row gx-5 align-items-center">
+<div class="col-lg-6">
+<div class="wh-img-wrap">
+<img src="img/wh-img-1.png" alt="Image">
+<img class="wh-shape-one bounce" src="img/wh-shape-1.png" alt="Image">
+<img class="wh-shape-two animationFramesTwo" src="img/wh-shape-2.png" alt="Image">
+</div>
+</div>
+<div class="col-lg-6">
+<div class="wh-content">
+<div class="content-title style1">
+<span>Why Choose Us</span>
+<h2>Get World Class &amp; Fastest Service</h2>
+<p>Tradeway Expert Is A Leading Financial advisory firm In India. We Believe In Working With Honesty And High Success Rate. Our Main Motive Is To Create Better Investments Awareness Among The Investors In Terms Of Safety, Success, Discipline And Growth. We Have Highly Qualified Research Analyst Team Who Research On Technical, Fundamental And News Event Base Market Volatility. Analysis Team Have Broad Knowledge Of Stock Market And Commodities Market. That’s The Reason Tradeway Expert Can Provide High Accurate Tips In Equity Cash, Equity Future, Bank Nifty Option, Nifty Future, Nifty Option, Bank Nifty, Bank Nifty Option,</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+<!-- why choose us end -->
+<!-- happy customer -->
+<div class="counter-wrap">
+<div class="container">
+<div class="counter-card-wrap">
+<div class="counter-card">
+<div class="counter-text">
+<div class="counter-num">
+<span class="odometer odometer-auto-theme" data-count="5430"><div class="odometer-inside"><span class="odometer-digit"><span class="odometer-digit-spacer">8</span><span class="odometer-digit-inner"><span class="odometer-ribbon"><span class="odometer-ribbon-inner"><span class="odometer-value">5</span></span></span></span></span><span class="odometer-formatting-mark">,</span><span class="odometer-digit"><span class="odometer-digit-spacer">8</span><span class="odometer-digit-inner"><span class="odometer-ribbon"><span class="odometer-ribbon-inner"><span class="odometer-value">4</span></span></span></span></span><span class="odometer-digit"><span class="odometer-digit-spacer">8</span><span class="odometer-digit-inner"><span class="odometer-ribbon"><span class="odometer-ribbon-inner"><span class="odometer-value">3</span></span></span></span></span><span class="odometer-digit"><span class="odometer-digit-spacer">8</span><span class="odometer-digit-inner"><span class="odometer-ribbon"><span class="odometer-ribbon-inner"><span class="odometer-value">0</span></span></span></span></span></div></span>
+</div>
+<p>Happy Customers</p>
+</div>
+</div>
+<div class="counter-card">
+<div class="counter-text">
+<div class="counter-num">
+<span class="odometer odometer-auto-theme" data-count="15"><div class="odometer-inside"><span class="odometer-digit"><span class="odometer-digit-spacer">8</span><span class="odometer-digit-inner"><span class="odometer-ribbon"><span class="odometer-ribbon-inner"><span class="odometer-value">2</span></span></span></span></span><span class="odometer-digit"><span class="odometer-digit-spacer">8</span><span class="odometer-digit-inner"><span class="odometer-ribbon"><span class="odometer-ribbon-inner"><span class="odometer-value">5</span></span></span></span></span></div></span>
+</div>
+<p>Years in Business</p>
+</div>
+</div>
+<div class="counter-card">
+<div class="counter-text">
+<div class="counter-num">
+<span class="odometer odometer-auto-theme" data-count="1"><div class="odometer-inside"><span class="odometer-digit"><span class="odometer-digit-spacer">8</span><span class="odometer-digit-inner"><span class="odometer-ribbon"><span class="odometer-ribbon-inner"><span class="odometer-value">2</span></span></span></span></span><span class="odometer-formatting-mark">,</span><span class="odometer-digit"><span class="odometer-digit-spacer">8</span><span class="odometer-digit-inner"><span class="odometer-ribbon"><span class="odometer-ribbon-inner"><span class="odometer-value">5</span></span></span></span></span><span class="odometer-digit"><span class="odometer-digit-spacer">8</span><span class="odometer-digit-inner"><span class="odometer-ribbon"><span class="odometer-ribbon-inner"><span class="odometer-value">9</span></span></span></span></span><span class="odometer-digit"><span class="odometer-digit-spacer">8</span><span class="odometer-digit-inner"><span class="odometer-ribbon"><span class="odometer-ribbon-inner"><span class="odometer-value">7</span></span></span></span></span></div></span>
+</div>
+<p>Our Branches</p>
+</div>
+</div>
+<div class="counter-card">
+<div class="counter-text">
+<div class="counter-num">
+<span class="odometer odometer-auto-theme" data-count="40467"><div class="odometer-inside"><span class="odometer-digit"><span class="odometer-digit-spacer">8</span><span class="odometer-digit-inner"><span class="odometer-ribbon"><span class="odometer-ribbon-inner"><span class="odometer-value">4</span></span></span></span></span><span class="odometer-digit"><span class="odometer-digit-spacer">8</span><span class="odometer-digit-inner"><span class="odometer-ribbon"><span class="odometer-ribbon-inner"><span class="odometer-value">0</span></span></span></span></span><span class="odometer-formatting-mark">,</span><span class="odometer-digit"><span class="odometer-digit-spacer">8</span><span class="odometer-digit-inner"><span class="odometer-ribbon"><span class="odometer-ribbon-inner"><span class="odometer-value">4</span></span></span></span></span><span class="odometer-digit"><span class="odometer-digit-spacer">8</span><span class="odometer-digit-inner"><span class="odometer-ribbon"><span class="odometer-ribbon-inner"><span class="odometer-value">6</span></span></span></span></span><span class="odometer-digit"><span class="odometer-digit-spacer">8</span><span class="odometer-digit-inner"><span class="odometer-ribbon"><span class="odometer-ribbon-inner"><span class="odometer-value">7</span></span></span></span></span></div></span>
+</div>
+<p>Successful call Tips</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+<!-- happy customer end -->
+
+<!-- our services -->
+<section class="service-wrap style3 ptb-100 bg-rock">
+<div class="container">
+<img src="img/service-shape-1.png" alt="Image" class="service-shape-one">
+<img src="img/service-shape-2.png" alt="Image" class="service-shape-two">
+<div class="section-title style1 text-center mb-40">
+<span>Our Services</span>
+<h2 class="text-white"></h2>
+</div>
+<div class="row gx-5 align-items-center">
+<div class="col-md-6">
+<div class="service-card style3">
+<span class="service-icon">
+<i class="fa-solid fa-arrow-trend-up"></i>
+</span>
+<div class="service-info">
+<h3><a href="equity.html">EQUITY</a></h3>
+<p>Equity segment we will provide recommendations suit to clients with low risk appetite.</p>
+</div>
+</div>
+</div>
+<div class="col-md-6">
+<div class="service-card style3">
+<span class="service-icon">
+<i class="fa-solid fa-money-bill-trend-up"></i>
+</span>
+<div class="service-info">
+<h3><a href="stock_future.html">STOCK FUTURE</a></h3>
+<p>Stock Future segment we will provide recommendations suit to clients with low risk appetite.</p>
+</div>
+</div>
+</div>
+<div class="col-md-6">
+<div class="service-card style3">
+<span class="service-icon">
+<i class="fa-solid fa-scale-unbalanced"></i>
+</span>
+<div class="service-info">
+<h3><a href="index_option.html">INDEX OPTION</a></h3>
+<p>Index Option segment we will provide recommendations suit to clients with low risk appetite.</p>
+</div>
+</div>
+</div>
+<div class="col-md-6">
+<div class="service-card style3">
+<span class="service-icon">
+<i class="fa-solid fa-arrow-up-right-dots"></i>
+</span>
+<div class="service-info">
+<h3><a href="index_future.html">INDEX FUTURE</a></h3>
+<p>Index Future segment we will provide recommendations suit to clients with low risk appetite.</p>
+</div>
+</div>
+</div>
+<div class="col-md-6">
+<div class="service-card style3">
+<span class="service-icon">
+<i class="fa-solid fa-hand-holding-dollar"></i>
+</span>
+<div class="service-info">
+<h3><a href="stock_option.html">STOCK OPTION</a></h3>
+<p>Stock Option we will provide recommendations suit to clients with low risk appetite.</p>
+</div>
+</div>
+</div>
+<div class="col-md-6">
+<div class="service-card style3">
+<span class="service-icon">
+<i class="fa-solid fa-arrow-up-wide-short"></i>
+</span>
+<div class="service-info">
+<h3><a href="tes.html">TRADEWAY EXPERT SERVICE</a></h3>
+<p>Tradeway Expert segment we will provide recommendations suit to clients with low risk appetite.</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+<!-- our services end -->
+
+<!-- registration form -->
+<div class="container mt-5 mb-5">
+<div class="row">
+<div class="col-xl-10 offset-xl-1 col-lg-10 offset-lg-1">
+<div class="content-title style1 text-center mb-40">
+<span>Send Us A Message</span>
+<h2>Registration Form</h2>
+</div>
+<div class="contact-form">
+<form action="mail.php" method ="POST">
+<input class="form-control" type="text" name="name" placeholder="Enter Name" required>
+<input type="text" name="phone" class="form-control mt-2" placeholder="Enter Number" required>
+<input class="form-control mt-2" type="email" name="email" placeholder="Enter Email" required>
+<select id="inputState" name="state_name" class="form-control mt-2">
+<option value="" selected="" disabled="">State</option>
+<option value="Andhra Pradesh">Andhra Pradesh</option>
+<option value="Arunachal Pradesh">Arunachal Pradesh</option>
+<option value="Chhattisgarh">Chhattisgarh</option>
+<option value="Delhi">Delhi</option>
+<option value="Bihar">Bihar</option>
+<option value="Goa">Goa</option>
+<option value="Gujarat">Gujarat</option>
+<option value="Haryana">Haryana</option>
+<option value="Himachal Pradesh">Himachal Pradesh</option>
+<option value="Jammu & Kashmir">Jammu & Kashmir</option>
+<option value="Jharkhand">Jharkhand</option>
+<option value="Karnataka">Karnataka</option>
+<option value="Kerala">Kerala</option>
+<option value="Madhya Pradesh">Madhya Pradesh</option>
+<option value="Maharashtra">Maharashtra</option>
+<option value="Manipur">Manipur</option>
+<option value="Meghalaya">Meghalaya</option>
+<option value="Mizoram">Mizoram</option>
+<option value="Nagaland">Nagaland</option>
+<option value="Odisha">Odisha</option>
+<option value="Punjab">Punjab</option>
+<option value="Rajasthan">Rajasthan</option>
+<option value="Sikkim">Sikkim</option>
+<option value="Tamil Nadu">Tamil Nadu</option>
+<option value="Telangana">Telangana</option>
+<option value="Tripura">Tripura</option>
+<option value="Uttarakhand">Uttarakhand</option>
+<option value="Uttar Pradesh">Uttar Pradesh</option>
+<option value="West Bengal">West Bengal</option>
+</select>
+<select id="inputState" class="form-control mt-2" name="investment">
+<option selected>Investment</option>
+<option value="Below Rs. 50,000">Below Rs. 50,000</option>
+<option value="1 Lac - 2 Lac">1 Lac - 2 Lac</option>
+<option value="2 Lac - 5 Lac">2 Lac - 5 Lac</option>
+<option value="Above Rs. 5 Lac">Above Rs. 5 Lac</option>
+</select>
+<select id="inputState" class="form-control mt-2" name="segment">
+<option selected>Segment</option>
+<option value="Basic Stock Option">Basic Stock Option</option>
+<option value="Basic Future">Basic Future</option>
+<option value="Cash">Cash</option>
+<option value="Delivery">Delivery</option>
+<option value="HNI Option">HNI Option</option>
+<option value="HNI Future">HNI Future</option>
+<option value="Index Option">Index Option</option>
+<option value="Jackpot Option">Jackpot Option</option>
+<option value="Jackpot Future">Jackpot Future</option>
+</select>
+<input type="submit" class="btn btn-primary mt-2" value="Submit">
+</form>
+</div>
+</div>
+</div>
+</div>
+<!-- registration form end -->
+
+<!-- testomonial -->
+<section class="testimonial-wrap ptb-100  bg-albastor">
+<div class="container">
+<div class="row">
+<div class="col-xl-6 offset-xl-3 col-lg-8 offset-lg-2">
+<div class="section-title style1 text-center mb-40">
+<span>Our Testimonials</span>
+<h2>What Our Client Says</h2>
+</div>
+</div>
+</div>
+<div class="testimonial-slider-three owl-carousel owl-loaded owl-drag">
+<div class="owl-stage-outer owl-height" style="height: 308.562px;"><div class="owl-stage" style="transform: translate3d(-3423px, 0px, 0px); transition: all 0s ease 0s; width: 12551px;"><div class="owl-item cloned" style="width: 1116px; margin-right: 25px;"><div class="testimonial-card style3">
+<span class="quote-icon">
+<i class="fa-solid fa-quote-left"></i>
+</span>
+<p class="client-quote">I came across GROWINGTREE RESEARCH research and was impressed the way they give target with repeated follow ups based on market scenerio and I took membership on 1st of this month and there is no regret.</p>
+<div class="testimonial-card-thumb">
+<div class="client-info-wrap">
+<div class="client-img">
+<img src="img/client-2.jpg" alt="Image">
+</div>
+<div class="client-info">
+<h4>Sunil Patil</h4>
+<span></span>
+</div>
+</div>
+</div>
+</div></div><div class="owl-item cloned" style="width: 1116px; margin-right: 25px;"><div class="testimonial-card style3">
+<span class="quote-icon">
+<i class="fa-solid fa-quote-left"></i>
+</span>
+<p class="client-quote">I don’t have any hesitation to recommend her to any of my friends or anybody that her recommendations and services are astonishing.</p>
+<div class="testimonial-card-thumb">
+<div class="client-info-wrap">
+<div class="client-img">
+<img src="img/client-3.jpg" alt="Image">
+</div>
+<div class="client-info">
+<h4>Sanjay Shah</h4>
+<span></span>
+</div>
+</div>
+</div>
+</div></div><div class="owl-item cloned" style="width: 1116px; margin-right: 25px;"><div class="testimonial-card style3">
+<span class="quote-icon">
+<i class="fa-solid fa-quote-left"></i>
+</span>
+<p class="client-quote">Further more my trading experience in share market is almost one year and after joining with Tradeway Expert my monthly income is becoming more that 3 times which I was earning before Many Thanks for all the members of her team and stay Blessed ….Best Regards…</p>
+<div class="testimonial-card-thumb">
+<div class="client-info-wrap">
+<div class="client-img">
+<img src="img/client-4.jpg" alt="Image">
+</div>
+<div class="client-info">
+<h4>Bharat Patel</h4>
+<span></span>
+</div>
+</div>
+</div>
+</div></div></div></div><div class="owl-nav"><button type="button" role="presentation" class="owl-prev"><i class="fa-solid fa-arrow-left"></i></button><button type="button" role="presentation" class="owl-next"><i class="fa-solid fa-arrow-right"></i></button></div><div class="owl-dots disabled"></div></div>
+</div>
+</section>
+<!-- testomonial end -->
+
+<!-- footer -->
+<footer class="footer-wrap bg-rock">
+<div class="container">
+<img src="img/footer-shape-1.png" alt="Image" class="footer-shape-one">
+<img src="img/footer-shape-2.png" alt="Image" class="footer-shape-two">
+<div class="row pt-100 pb-75">
+<div class="col-xl-4 col-lg-4 col-md-6 col-sm-6">
+<div class="footer-widget">
+<a href="index.html" class="footer-logo">
+<img src="img/logo-2.png">
+</a>
+<p class="comp-desc">
+Tradeway Expert Is A Leading Financial advisory firm In India. We Believe In Working With Honesty And High Success Rate.
+</p>
+<div class="social-link">
+<ul class="social-profile list-style style1">
+<li>
+<a target="_blank" href="https://facebook.com/">
+<i class="fa-brands fa-facebook"></i>
+</a>
+</li>
+<li>
+<a target="_blank" href="https://twitter.com/">
+<i class="fa-brands fa-twitter"></i>
+</a>
+</li>
+<li>
+<a target="_blank" href="https://linkedin.com/">
+<i class="fa-brands fa-linkedin"></i>
+</a>
+</li>
+<li>
+<a target="_blank" href="https://instagram.com/">
+<i class="fa-brands fa-instagram"></i>
+</a>
+</li>
+</ul>
+</div>
+</div>
+</div>
+<div class="col-xl-3 col-lg-3 col-md-6 col-sm-6">
+<div class="footer-widget">
+<h3 class="footer-widget-title">Our Services</h3>
+<ul class="footer-menu list-style">
+<li>
+<a href="equity.html">
+Equity
+</a>
+</li>
+<li>
+<a href="stock_option.html">
+Stock Option
+</a>
+</li>
+<li>
+<a href="stock_future.html">
+Stock Future
+</a>
+</li>
+<li>
+<a href="index_option.html">
+Index Option
+</a>
+</li>
+<li>
+<a href="combo_pack.html">
+Combo Package
+</a>
+</li>
+<li>
+<a href="tes.html">
+Tradeway Expert Special
+</a>
+</li>
+</ul>
+</div>
+</div>
+<div class="col-xl-2 col-lg-2 col-md-6 col-sm-6">
+<div class="footer-widget">
+<h3 class="footer-widget-title">Company Profile</h3>
+<ul class="footer-menu list-style">
+<li>
+<a href="about.html">
+About Us
+</a>
+</li>
+<li>
+<a href="#">
+Disclaimer
+</a>
+</li>
+<li>
+<a href="#">
+KYC
+</a>
+</li>
+<li>
+<a href="#">
+Expert Advise
+</a>
+</li>
+<li>
+<a href="#">
+Refund Policy
+</a>
+</li>
+<li>
+<a href="buy.html">
+Bank Details
+</a>
+</li>
+<li>
+<a href="#">
+Privacy Policy
+</a>
+</li>
+<li>
+<a href="#">
+Terms & Conditions
+</a>
+</li>
+</ul>
+</div>
+</div>
+<div class="col-xl-3 col-lg-3 col-md-6 col-sm-6">
+<div class="footer-widget" style="color:white;">
+<h3 class="footer-widget-title">Contact Information</h3>
+<i class="fa-solid fa-building"></i>  Waghle state Thane(w), 400083 <br>
+<i class="fa-solid fa-phone"></i>  +91 7738140769 <br>
+<i class="fa-solid fa-envelope"></i>  experttradewaysales@gmail.com <br>
+</div>
+</div>
+</div>
+</div>
+</footer>
+<!-- footer end -->
+</div>
+<!-- main container end -->
+
+<a href="javascript:void(0)" class="back-to-top bounce" style="display: none;"><i class="fa-solid fa-arrow-up"></i></a>
+
+
+<script src="js/jquery.min.js.download"></script>
+<script src="js/bootstrap.bundle.min.js.download"></script>
+<script src="js/form-validator.min.js.download"></script>
+<script src="js/contact-form-script.js.download"></script>
+<script src="js/aos.js.download"></script>
+<script src="js/owl.carousel.min.js.download"></script>
+<script src="js/odometer.min.js.download"></script>
+<script src="js/fancybox.js.download"></script>
+<script src="js/jquery.appear.js.download"></script>
+<script src="js/tweenmax.min.js.download"></script>
+<script src="js/main.js.download"></script>
+
+</body></html>

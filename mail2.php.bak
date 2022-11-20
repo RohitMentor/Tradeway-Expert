@@ -1,0 +1,48 @@
+<?php
+$name = $_POST["name"];
+$phone = $_POST["phone"];
+$email = $_POST["email"];
+$subject = $_POST["subject"];
+$message = $_POST["message"];
+
+$to = "palvisushant1996@gmail.com";
+$subject = "Enquiry Form Submited";
+
+$message = "
+<html>
+<head>
+<title>Hellow Sir/Mam</title>
+</head>
+<body>
+<p>Need information about investment.</p>
+<table>
+<tr>
+<th>Name</th>
+<th>Phone</th>
+<th>email</th>
+<th>subject</th>
+<th>message</th>
+</tr>
+<tr>
+<td>$name</td>
+<td>$phone</td>
+<td>$email</td>
+<td>$subject</td>
+<td>$message</td>
+</tr>
+</table>
+</body>
+</html>
+";
+
+// Always set content-type when sending HTML email
+$headers = "MIME-Version: 1.0" . "\r\n";
+$headers .= "Content-type:text/html;charset=UTF-8" . "\r\n";
+
+// More headers
+$headers .= 'From:'. $email . "\r\n";
+
+mail($to,$subject,$message,$headers);
+
+header("Location: contact.html");
+?>
